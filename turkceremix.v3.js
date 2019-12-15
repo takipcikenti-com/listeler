@@ -2,6 +2,7 @@
 AP.init({
   playList: [
     {'title': 'Özcan Deniz - Aşk (Gürsel Çelik)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwALvynD4LLidUk0_yD%2F-LwALzDgIrJjdRimIs8s%2Faskremix.mp3?alt=media&token=8ebe216f-d74b-4487-ba55-1f5eb4e0fb93'},
+    {'title': 'Buray - Karma (Aytaç Kart)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwAaQkiE4XQ2ylLqHRR%2F-LwAaVEEVb5R-c0D1Td1%2Fkarmaremix.mp3?alt=media&token=e7a918cf-ce2f-41e1-9ea8-b28f5fcf1410'},    
     {'title': 'Tuğçe Haşimoğlu - Hasretinle Yandı Gönlüm', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LtVAt2crySpXPlBYePb%2F-LtVCey_TQHBcE_JCW-2%2Fhasretinleremix.mp3?alt=media&token=e5c91ef0-cb6e-4a7c-b53e-a0bc7206628f'},
     {'title': 'Ayla Çelik - Daha Bi Aşık (Selami Bilgiç)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LsO0yD0qYXz5lSlBvD9%2F-LsO1VqQyxf3yvIGmfgW%2Fdahabiasikrmx.mp3?alt=media&token=15f084b3-410b-4f72-a71e-c6e89ef7828b:'},
     {'title': 'Can Oflaz - Aşk Mı Meşk Mi (Loop Versiyon)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LsO0yD0qYXz5lSlBvD9%2F-LsO11so2k3K2kZ3JKah%2Faskmimeskmirmx.mp3?alt=media&token=31127f66-54f5-4d01-8795-3d6b85459f7d'},
