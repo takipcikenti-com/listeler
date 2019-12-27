@@ -9,6 +9,8 @@ AP.init({
   { 'title': 'Kahraman Deniz - Uzak Gelecek', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LuY5t9waKWwu7IQAr1F%2F-LuY6T0mtKb4n0YCoI0Q%2Fuzakgelecek.mp3?alt=media&token=1924edfe-adb7-48f8-a00b-60765595cf71' },
     {'title': 'Merve Özbey - Yaramızda Kalsın', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-Lh0EzdPi5gVv0VE4KCX%2F-Lh0FBDiiTloUUwx8Ajk%2Fyaramizdakalsinmerve.mp3?alt=media&token=812943e6-60f7-42db-9b2c-36ce22fc2621'},
   { 'title': 'Tuğçe Kandemir - Yağmur', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LuK36C4o4B8NoPgtHp2%2F-LuK3I7dwecpk7Tno7rv%2Fyagmurslw.mp3?alt=media&token=6b15ed63-b937-461c-ab59-709c6cc09055' },
+  { 'title': 'Manuş Baba - İki Gözümün Çiçeği', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lx7-5HioMCwGyRIDXfi%2F-Lx7-Il26xsIg592HslD%2Fikigozumuncicegi.mp3?alt=media&token=95b800e9-d5ff-4aa6-8e2a-61021a6bb642' },
+  { 'title': 'Cem Adrian & Hande Mehan  Sen Benim Şarkılarımsın', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lx7-5HioMCwGyRIDXfi%2F-Lx7-f8twZJ2d_cdAbmC%2Fsenbenimsarkilarimsin.mp3?alt=media&token=73c67137-f4d5-4bd0-a3d6-b16008cdbe13' },
     {'title': 'Tan Taşçı - Git Gidebilirsen', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LvWM5Z8_NGqeSqBIB_h%2F-LvWNLzQJAsMxJa6pn-F%2Fgitgidebilirsen.mp3?alt=media&token=a926bdb5-cc01-4232-8676-253c64298567'},
     {'title': 'Eli Türkoğlu - Bitmeyen Öyküm', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwA3duvKHINAMoMRJCj%2F-LwA6Der07UhKfE_tyqW%2Fbitmeyenoykum.mp3?alt=media&token=a69ae7bc-8845-46a6-818f-521741eb0da5'},
     {'title': 'Tan Taşçı - Git Gidebilirsen', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LvWM5Z8_NGqeSqBIB_h%2F-LvWNLzQJAsMxJa6pn-F%2Fgitgidebilirsen.mp3?alt=media&token=a926bdb5-cc01-4232-8676-253c64298567'},
@@ -134,11 +136,4 @@ AP.init({
     {'title': 'Ali Emre Altın - Bu Kadar Kafi', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-LSkLs8NGqJ8qyEFrJ40%2F-LSkLx3S2jvCMsnGHjhl%2Fbukafakafi.mp3?alt=media&token=d4d3a9a2-028e-4cfa-9957-ea7953416869'},
     {'title': 'Dilek Kavraal - Yazıp Yazıp Sildiklerim', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-LSkNC1wjQ3yUDu08KRU%2F-LSkNI5poWitKtdOMJsN%2Fyazipsildiklerim.mp3?alt=media&token=57d05199-6e21-4263-b3fc-87050edd9a7b'},
   ]
-});
-
-$(document).ready(function(){
-  $(".pl-list__download").on("click", function(){
-    var trackPlaying = $(this).closest(".pl-list");
-    console.log(AP.getTrack(trackPlaying.attr("data-track")));
-  });
 });
