@@ -2,6 +2,7 @@
 AP.init({
   playList: [
     {'title': 'Şanışer - Susamam (Uzun Versiyon)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-LoRQpd0IsdKaIvKwtjR%2F-LoRRTq7xTHQgIy_dgTz%2Fsusamam.mp3?alt=media&token=2c25fe72-f75b-4bf2-ac80-6e952b804ef1'},
+    {'title': 'Ceza - Beatcoin', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lx70Agxe5v1nnP6DTJ0%2F-Lx74Qlv3wmS_VHPHUgL%2Fbeatcoin.mp3?alt=media&token=9a6785ca-f741-430c-9f7c-d80904bd8c65'},
     {'title': 'Şanışer ft. Sezen Aksu - Kara Geceler', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwAb0VsUFfNx19Ox3Xc%2F-LwAdfi9zrSVJxzvVe3Z%2Fkarageceler.mp3?alt=media&token=67d47a96-84c5-469c-b90b-58f2648e14a5'},
     {'title': 'Keişan - Karanlık', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwniBiY1eTk4OiImlig%2F-Lwnj7164Gu167UztnsN%2Fkaranlik.mp3?alt=media&token=c94d4abe-3927-48a8-bb9a-ae75d16471c6'},
     {'title': 'Ozbi - Aman Diyene Vurulmaz', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwniBiY1eTk4OiImlig%2F-LwniJW5flFWxSoKEDZt%2Famandiyenevurulmaz.mp3?alt=media&token=fb5fa21e-1737-44f7-9c60-ddc216e98855'},
