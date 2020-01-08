@@ -15,7 +15,7 @@ AP.init({
 {'title': 'Yalın & Solanch - De La Roza  ', 'file': 'https://www.tmb.tv/uploads/yal%C4%B1n%20solanch.mp3'},
 {'title': 'Aydın Kurtoğlu - Tek ', 'file': 'https://www.tmb.tv/uploads/AYDIN%20TEK.mp3'},
 {'title': 'Mustafa Ceceli - Bedel', 'file': 'https://www.tmb.tv/uploads/CECELI.mp3'},
-{'title': 'Gülden - Yakarım İstanbul'u ', 'file': 'https://www.tmb.tv/uploads/GULSEN%20YAKARIM.mp3'},
+{'title': 'Gülden - Yakarım İstanbulu ', 'file': 'https://www.tmb.tv/uploads/GULSEN%20YAKARIM.mp3'},
 {'title': 'Fatma Turgut - Yangın Yeri ', 'file': 'https://www.tmb.tv/uploads/CAN%20BAYDAR&%20FATMA.mp3'},
 {'title': 'Gökhan Türkmen - Sır ', 'file': 'https://www.tmb.tv/uploads/TURKMEN%20SIR.mp3'},
 {'title': 'Tünzale - Sevmeli ', 'file': 'https://www.tmb.tv/uploads/YUNZZALE%20(1).mp3'},
