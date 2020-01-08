@@ -3,7 +3,7 @@ AP.init({
   playList: [
 {'title': 'Rozz Kalliope & Ece Seçkin - Benjamins 3', 'file': 'https://www.tmb.tv/uploads/ECE&ROSS.mp3'},
 {'title': 'Nigar Jamal ft Aygun Beyler - Nefesim qelbim (AZERBAYCAN)', 'file': 'https://www.tmb.tv/uploads/NIGAR%20NEFESIM.mp3'},
-{'title': 'Tuğba Yurt - Vur Kaç', 'file': 'https://www.tmb.tv/uploads/VURKAC.mp3'}]});
+{'title': 'Tuğba Yurt - Vur Kaç', 'file': 'https://www.tmb.tv/uploads/VURKAC.mp3'},
 {'title': 'Kesh You - Sertin qaida  (KAZAKİSTAN)', 'file': 'https://www.tmb.tv/uploads/04-KESHYOUSERTI%20QAIDA.mp3'},
 {'title': 'Manga - Haykıracak Nefesim Kalmasa Bile ', 'file': 'https://www.tmb.tv/uploads/MUNISSA%20BIR%20NAME%20DE.mp3'},
 {'title': 'Hadise - Geliyorum Yanına', 'file': 'https://www.tmb.tv/uploads/HADSES.mp3'},
