@@ -19,4 +19,5 @@ AP.init({
 {'title': 'Murad Arif - Bossa Nova (AZERBAYCAN) ', 'file': 'https://www.tmb.tv/uploads/MURAD%20ARIF.mp3'},
 {'title': 'Dinara Sultan - Syi', 'file': 'https://www.tmb.tv/uploads/DINARRA.mp3'},
 {'title': 'Zakkum - Bilemedim', 'file': 'https://www.tmb.tv/uploads/ZAKKM.mp3'},
-{'title': 'Jiydeş İdrisova - Narinay ', 'file': 'https://www.tmb.tv/uploads/j%C4%B1des.mp3'}]});
+{'title': 'Jiydeş İdrisova - Narinay ', 'file': 'https://www.tmb.tv/uploads/j%C4%B1des.mp3'},
+{'title': 'Indira Elemes - Sezim', 'file': 'https://www.tmb.tv/uploads/nd%C4%B1rasez%C4%B1m.mp3'},]});
