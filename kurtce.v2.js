@@ -7,7 +7,7 @@ AP.init({
     {'title': 'İbrahim Tatlıses - Şemmame', 'file': 'http://awscdn.podcasts.com/semmame-5f4b.mp3'},
     {'title': 'Mem Ararat - Aydil', 'file': 'http://awscdn.podcasts.com/aydil-7279.mp3'},
     {'title': 'Devran Arhat - Ez Helandım', 'file': 'http://awscdn.podcasts.com/ezhelandim-1b13.mp3'},
-    {'title': 'Gönül Dilan - Kurdî Mashup', 'file': 'http://awscdn.podcasts.com/kurdimashup-e439.mp3'},
+    {'title': 'Gönül Dilan - Kurdî Mashup', 'file': 'https://www.podcasts.com/download/krtce-803ed2f98/kurdimashup-e439'},
     {'title': 'Bilind İbrahim - Duri To', 'file': 'http://awscdn.podcasts.com/durito-51d5.mp3'},
     {'title': 'Ciwan Haco - Nisrînê', 'file': 'http://awscdn.podcasts.com/nisrine-df7c.mp3'},
     {'title': 'Aram Serhad - Yek Mumik', 'file': 'http://awscdn.podcasts.com/yekmumik-1a73.mp3'},
