@@ -2,6 +2,7 @@
 AP.init({
   playList: [
 {'title': 'Suzan Kardeş - Yüksek Yüksek Tepeler', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lyp3o5ltUbxrQ8Uisht%2F-Lyp6JQyPN1zugVc9Y6w%2Fyuksekyuksek.mp3?alt=media&token=82e17c92-3ec8-45e4-94d4-d6f377b893b0'},
+{'title': 'Tuncay Kemertaş - Vardım Baktım', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LypIv8OkMORhi9zKNb2%2F-LypIyb5ONDG6WcqMCoS%2Fvardimbaktim.mp3?alt=media&token=927235a7-7bca-4350-b551-9309df5a55cd'},
 {'title': 'Emre Elçioğlu - Kırmızı Yazma', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Ly4byHulCzbEot3nejw%2F-Ly4c1aKokXRnmZLi75-%2Fkirmiziyazma.mp3?alt=media&token=d5f030e5-b48f-4e44-9516-43db572eb047'},
 {'title': 'Koray Avcı - Yuh Yuh', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwA7V0nohS311BhmqAo%2F-LwA7Wrl3kYFoxiTuJIw%2Fyuhyuh.mp3?alt=media&token=d293430c-a2b2-41b3-b49b-9452f4bda9dd'},
 {'title': 'Deniz Toprak - Cevizin Yaprağı Dal Arasında', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwARgGbOqgCuIzVJTex%2F-LwAWza5MpRxvdN1W5pa%2Fcevizinyapragi.mp3?alt=media&token=2b0e10d2-e9fb-4321-a83e-f0a0ed416f6f'},
