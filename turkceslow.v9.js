@@ -2,7 +2,9 @@
 AP.init({
   playList: [
 {'title': 'Sezen Aksu - Yetinmeyi Bilir Misin?', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lyp3o5ltUbxrQ8Uisht%2F-Lyp5wByFeDiiExf4V9U%2Fyetinmeyibilirmisin.mp3?alt=media&token=f7034edb-cdbd-4dd8-a4c8-0dae9767f404'},
+
 {'title': 'Ceylan Ertem & Gökhan Türkmen - Gönül', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lz8eVUGwcovbyEzIYiX%2F-Lz8eYxUyBgG4sd3wlL5%2Fgonul.mp3?alt=media&token=b649f990-b661-494a-ba7b-ee62d2a4a3e0'},
+{'title': 'Güven Yüreyi - Aldanmam', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LzNcAGkAR96Xtfzu8HE%2F-LzNcDoo_aiXf2K0GnBI%2Faldanmam.mp3?alt=media&token=449e5f47-0bde-4ee8-9c54-a6eb71474c00'},
 {'title': 'Ferah Zeydan - Güle Güle', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lz8VHBYDnH3X8ovMxvM%2F-Lz8VoQO4Bi-JoAHFItI%2Fgulegule.mp3?alt=media&token=89d92a5b-8a8b-4160-b0d0-683ed3ccf806'},
 {'title': 'Ferhat Göçer - İmkansız', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lz8VHBYDnH3X8ovMxvM%2F-Lz8WkY9TBh2v0V0zxe6%2Fimkansiz.mp3?alt=media&token=46aa328d-6177-4615-a2b2-0089bac1c61f'},
 {'title': 'Mustafa Ceceli - Bedel', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LreNfb1ol7aPPTYJQBC%2F-LreOdcAOnMIWB71U9zv%2Fbedel.mp3?alt=media&token=153214cb-2416-49b8-938d-d19b219a4349'},
