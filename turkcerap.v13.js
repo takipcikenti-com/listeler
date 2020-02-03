@@ -2,6 +2,7 @@
 AP.init({
   playList: [
 {'title': 'Şanışer - Susamam (Uzun Versiyon)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-LoRQpd0IsdKaIvKwtjR%2F-LoRRTq7xTHQgIy_dgTz%2Fsusamam.mp3?alt=media&token=2c25fe72-f75b-4bf2-ac80-6e952b804ef1'},
+{'title': 'Reynmen - Leila', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M-BP4fKnQr2i3nXGoRr%2F-M-BQgxd37E7ZsBzYMjf%2Fleila.mp3?alt=media&token=3a3e69fe-bd71-46a2-ac85-e1f6300ce30d'},
 {'title': 'Murda & Ezhel - Bi Sonraki Hayatımda Gel', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LzNcAGkAR96Xtfzu8HE%2F-LzNeEmjVQTaXidkAR1x%2Fbisonrakihayatimdagel.mp3?alt=media&token=26fe8e1d-5107-4a2d-ba69-9e39ec3c46e4'},
 {'title': 'Velet - İki Lira', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LzY0RVj46N4D6q13kMr%2F-LzY10eQRpC3ZCcri1GC%2Fikilira.mp3?alt=media&token=56cb08b0-c098-4a42-a197-f0bed87c478e'},
 {'title': 'Ceg & Anıl Piyancı - Yeşillendir', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LzY0RVj46N4D6q13kMr%2F-LzY0YvF6ARCccqkOSIA%2Fyesillendir.mp3?alt=media&token=131e3ff0-fa9a-4848-9fa0-c12721926972'},
@@ -12,6 +13,7 @@ AP.init({
 {'title': 'Taladro ft. Cem Adrian - Unutmak İstemiyorum', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LwjfOAFDDkxcH9D2ILg%2F-LwjgoRzWTO6Zlkrwi0I%2Funutmakistemiyorum.mp3?alt=media&token=f21a34b8-82ee-4974-a256-87cf95957e7f'},
 {'title': 'Velet - Leyla', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Ly5gop6LLjGK9cb_t5F%2F-Ly5hDK-ob6UwNP1ldeW%2Fleyla.mp3?alt=media&token=db44b30d-cac4-4a31-bade-83d86298a74a'},
 {'title': 'Sezzy - Beni Bul', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lyp136GA6n8j_I5K_Xj%2F-Lyp16E4YqIkjtcLcQkY%2Fbenibul.mp3?alt=media&token=689ddc80-1b58-425e-8f35-3cba7856fb89'},
+    
 {'title': 'KADR - Zalim Dünya', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lyp6isa2gbVlVlDnYJ5%2F-Lyp6mZY9gxnvBkxfJ57%2Fzalimdunya.mp3?alt=media&token=0da66f59-380e-4851-b0e9-3e1df48287ba'},
 {'title': 'Stap - Memur', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Ly5gop6LLjGK9cb_t5F%2F-Ly5i5H9cLESPafSXovZ%2Fmemur.mp3?alt=media&token=29e594eb-dd23-4b6d-bf59-8e2bcfe962d5'},
 {'title': 'Afi Ares - Anka', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Ly5dyKB0MbvWZfSpbyk%2F-Ly5empOCZyUIhUKdjiD%2Fanka.mp3?alt=media&token=80d48dfb-601c-4102-89f6-383934d990f3'},
