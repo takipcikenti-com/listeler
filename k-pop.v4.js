@@ -2,6 +2,8 @@
 AP.init({
   playList: [
 {'title': 'BTS - Black Swan', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LzY77xn3OTe6HsLsnyQ%2F-LzY8bLhgLIbOO_a9GfC%2Fblackswan.mp3?alt=media&token=8685a044-c7e7-455f-b0f3-9ee3444eef1c'},
+{'title': 'EVERGLOW - DUN DUN', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M-QIrXXqSTxw3rg-_X9%2F-M-QKMvm-ri5SkSTvv86%2Fdundun.mp3?alt=media&token=225e1593-fa9f-496c-b54a-ffee5e91582c'},
+{'title': 'ZICO - Any Song', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M-QIrXXqSTxw3rg-_X9%2F-M-QJyAJTrNm45SZ5WIV%2Fanysong.mp3?alt=media&token=b3a5e185-b8f5-454d-984d-cfc3ee2ca897'},
 {'title': 'BTS - Boy With Luv', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-LoMRrykfx-UNr5Pqv9e%2F-LoMS6ZIFJftWQcifKJb%2Fboywithluv.mp3?alt=media&token=762ce398-7ba1-4ba9-95e6-47303ccbd2ea'},
 {'title': 'ATEEZ - Answer', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LyOHzjYuxya3kYfJmVM%2F-LyOJzOKfKqmU_cBF1n8%2Fanswer.mp3?alt=media&token=2282895f-9304-477b-89c1-22554c0351e7'},
 {'title': 'Ava Max ft. NCT 127 - So Am I', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LtUyURzOZ6NzU0ZcvSL%2F-LtV0PvrmZIdNyiM9yQE%2Fsoaminct.mp3?alt=media&token=2759d8ce-e1be-4f36-b353-6eaa2d90abc4'},
