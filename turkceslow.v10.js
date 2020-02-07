@@ -2,7 +2,6 @@
 AP.init({
   playList: [
 {'title': 'Sezen Aksu - Yetinmeyi Bilir Misin?', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lyp3o5ltUbxrQ8Uisht%2F-Lyp5wByFeDiiExf4V9U%2Fyetinmeyibilirmisin.mp3?alt=media&token=f7034edb-cdbd-4dd8-a4c8-0dae9767f404'},
-
 {'title': 'Ceylan Ertem & Gökhan Türkmen - Gönül', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lz8eVUGwcovbyEzIYiX%2F-Lz8eYxUyBgG4sd3wlL5%2Fgonul.mp3?alt=media&token=b649f990-b661-494a-ba7b-ee62d2a4a3e0'},
 {'title': 'Güven Yüreyi - Aldanmam', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-LzNcAGkAR96Xtfzu8HE%2F-LzNcDoo_aiXf2K0GnBI%2Faldanmam.mp3?alt=media&token=449e5f47-0bde-4ee8-9c54-a6eb71474c00'},
 {'title': 'Göksel - Ben Fena Aşığım', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M-UXIew_EKv1QIVxgrI%2F-M-UXPXgy7SzWm6WgXPI%2Fbenfenaasigim.mp3?alt=media&token=47ad6d2c-943d-4011-97d7-04f2196757e9'},
