@@ -2,6 +2,7 @@
 AP.init({
   playList: [
 {'title': 'Sezen Aksu - Ben De Yoluma Giderim', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M0hg6Ji5KqosldQrhxw%2F-M0hk0PKzMD_8p3uf28D%2Fbendeyolumagiderim.mp3?alt=media&token=6e8e265a-eda5-4acc-b13d-7b1ed353f1de'},
+{'title': 'Yeşim Salkım - Katil Uşak', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M0iSRxsvDBLvW7yTVPv%2F-M0iSWuz_UJZfKJgZ-pX%2Fkatilusak.mp3?alt=media&token=fb18fb9e-afa4-4946-bdae-4080263e47be'},
 {'title': 'Pinhani - Ankara Gel Dedi', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M0hg6Ji5KqosldQrhxw%2F-M0hmCnVxh9dgGoGqtf7%2Fankarageldedi.mp3?alt=media&token=7224b446-b6eb-4942-ba30-e6a3fc1889c5'},
 {'title': 'İrem Derici ft. Sinan Akçıl - Teşekkürler', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M0hg6Ji5KqosldQrhxw%2F-M0hldrqiAgr4ukWFGwI%2Ftesekkurler.mp3?alt=media&token=8f352d9d-e198-462b-a4bf-304f8f3f5866'},
 {'title': 'Ece Seçkin ft. Sinan Akçıl - Anlayamazsın', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M0hg6Ji5KqosldQrhxw%2F-M0hislxDl_AhocKtNHp%2Fanlayamazsin.mp3?alt=media&token=ed888beb-5696-42db-894d-6ad442aa4b6b'},
