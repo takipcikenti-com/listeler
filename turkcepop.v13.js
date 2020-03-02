@@ -2,6 +2,8 @@
 AP.init({
   playList: [
 {'title': 'Demet Akalın ft. Işın Karaca & Deniz Seki - Alâ', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M10VU4FTCcgi_mTAQe_%2F-M10ZRYOevs7EDg-wAjL%2Fala.mp3?alt=media&token=85fc975e-496e-404e-be8a-05f82899cde0'},
+{'title': 'Cem Belevi - Kaç Kere Sever İnsan', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M1Rn1CrBqY8oklt2Qk6%2F-M1RnmP7wYZzBfztBxQe%2Fkackereseverinsan.mp3?alt=media&token=3c74ac97-772b-4303-b5b1-7a1f8dd6eae8'},
+{'title': 'Funda Arar - Doldur Yüreğimi', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M1RqRfXv-X8sE2hLpmp%2F-M1RqaAxFW4dejU0Lvh6%2Fdolduryuregimi.mp3?alt=media&token=393ebeb8-78f8-478b-af9e-ca2677fff3be'},
 {'title': 'Mustafa Ceceli - Saçma Sapan', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M-GrzZsWMpig2ltP1uo%2F-M-Gs5ObQoP1BesUw-f0%2Fsacmasapan.mp3?alt=media&token=8f6e2ac5-16b0-41a2-b597-90a3d64bd4d0'},
 {'title': 'Özgün - Mahzen', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M-1Ao4ZQLqcBAeuErKa%2F-M-1BPEDWT0j-MAuejmK%2Fmahzen.mp3?alt=media&token=d68a5b3f-6a8a-4646-86b1-b618bd4bfa5f'},
 {'title': 'Caroline ft. Serdar Ortaç - Canı Sağolsun', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M081jVoutVVyYLuhlhZ%2F-M082gYZcH5NyEAjEAPF%2Fcanisagolsun.mp3?alt=media&token=79fb8a93-4a8a-4aa5-8b86-515093b25396'},
