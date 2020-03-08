@@ -2,6 +2,7 @@
 AP.init({
   playList: [
 {'title': 'Öykü Gürman - Deniz Gözlüm', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M10K2IDg7loMaezIXBc%2F-M10OxMYglN_6eixAJN-%2Fdenizgozlum.mp3?alt=media&token=918a2596-8722-4fff-9764-c4f0cceec2c3'},
+{'title': 'Marsis - Yari', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M1vy0rmhvEBpQ2Wb-43%2F-M1vy3nIQnbeXVQ01UYt%2Fyari.mp3?alt=media&token=2f55bec5-db27-4ffd-9ab7-77b3e2b26bae'},
 {'title': 'İmera - Ne Oldu', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M10K2IDg7loMaezIXBc%2F-M10R5z2uN9JoVBaan5Q%2Fneoldu.mp3?alt=media&token=7da4f28e-d681-4591-ae9f-ea3dafe15162'},
 {'title': 'Merve Yavuz - Yüreğime Ektim Seni', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M10K2IDg7loMaezIXBc%2F-M10Qd05kc9ARtFkBLaQ%2Fyuregimeektimseni.mp3?alt=media&token=605cff8a-a2d5-4929-96fe-9fc0e71fe5ba'},
 {'title': 'Turan Şahin - Evet Desana', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M10K2IDg7loMaezIXBc%2F-M10PVeUCs4UPzJo8-cU%2Fevetdesana.mp3?alt=media&token=a05d002a-243a-42e1-b943-c4bbe9e510a9'},
