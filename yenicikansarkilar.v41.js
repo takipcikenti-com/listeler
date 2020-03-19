@@ -2,6 +2,7 @@
 AP.init({
   playList: [
 {'title': 'Buray - Kış Bahçeleri', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M2oFlLw763Ih5Kvqqe2%2F-M2oGt3V_SzKh7tHrGPj%2Fkisbahceleri.mp3?alt=media&token=4f195d5e-a93a-4683-8ccb-00fef9002ac4'},
+{'title': 'Ebru Yaşar - Kalmam', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M2ofaxPSReJSl1VStY4%2F-M2ogMJv9RdvR1HGovKh%2Fkalmam.mp3?alt=media&token=21e91b15-02a0-4512-8196-bbfbe207f7b2'},
 {'title': 'Güliz Ayla - Sarmaşık', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M1vtvUp3dJKrsfTyhIh%2F-M1vuHKO_51oSCmWpmmW%2Fsarmasik.mp3?alt=media&token=fe05131e-e502-413a-867f-7eed4abd6c3a'},
 {'title': 'Can Bonomo - Sen Bunları Duyma', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M1vtvUp3dJKrsfTyhIh%2F-M1vuHKJ_a88F1Xwkwkn%2Fsenbunlariduyma.mp3?alt=media&token=5f278315-c46c-4078-8f6e-bbd43efae515'},
 {'title': 'Sıla - Özgürlük', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M1vtvUp3dJKrsfTyhIh%2F-M1vuHKLobckaJM63WTM%2Fozgurluk.mp3?alt=media&token=ef485bd9-1086-494e-9679-f706f7b1077d'},
