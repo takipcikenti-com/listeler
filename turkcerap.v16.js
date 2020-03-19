@@ -2,6 +2,9 @@
 AP.init({
   playList: [
 {'title': 'Şanışer - Susamam (Sabit)', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LN6pmp-hlaXw_W0OEcN%2F-LoRQpd0IsdKaIvKwtjR%2F-LoRRTq7xTHQgIy_dgTz%2Fsusamam.mp3?alt=media&token=2c25fe72-f75b-4bf2-ac80-6e952b804ef1'},
+{'title': 'Tepki - Ghetto', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M2ocLU1rudM6XQPpNYk%2F-M2ocUg0Su6RcnOkYRa_%2Fghetto.mp3?alt=media&token=7e83b67e-1093-46d7-8ca4-e3428e282ad5'},
+{'title': 'Şanışer - Aynı Sokaklarda', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M2ocLU1rudM6XQPpNYk%2F-M2ocUfwjNA2ek7KfNiZ%2Faynisokaklarda.mp3?alt=media&token=e00d5f02-ce4c-41e7-9ba2-69b356ec5184'},
+{'title': 'Kubilay Karça - Duman', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M2ocLU1rudM6XQPpNYk%2F-M2ocUg-sEd7WZOFdU9S%2Fduman.mp3?alt=media&token=e99b888f-8ad0-4627-b1e7-51a74b4cf9e7'},
 {'title': 'Gazapizm - Pisliğin Üstüne Basmışlar ', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M08623tL9Kq8ewiV8EC%2F-M08Guii6PZJ3AQNI15D%2Fpisliginustunebasmislar.mp3?alt=media&token=c0c4da82-2b92-40ce-901f-3371e3b687b7'},
 {'title': 'KADR - Zalim Dünya', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-Lyp6isa2gbVlVlDnYJ5%2F-Lyp6mZY9gxnvBkxfJ57%2Fzalimdunya.mp3?alt=media&token=0da66f59-380e-4851-b0e9-3e1df48287ba'},
 {'title': 'Murda ft. Zeynep Bastık & Idaly - Güneș', 'file': 'https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lpdr52D2axjjm7pA8Aa%2F-M081jVoutVVyYLuhlhZ%2F-M084RG4zeTlwC9s3RQe%2Fgunes.mp3?alt=media&token=7b1a77f7-1f4f-485b-919e-0cc23b381342'},
